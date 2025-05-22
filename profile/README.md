@@ -5,7 +5,8 @@
 This organization contains all core projects for the jlang ecosystem, including:
 
 - 🧠 [Compiler](https://github.com/jlang-org/Jlang)
-- 🧩 [Parser](https://github.com/jlang-org/Jlang_TSParser)
+- 🧩 [Formatter](https://github.com/jlang-org/Jlang_Formatter)
+- 🧩 [TS_Parser](https://github.com/jlang-org/Jlang_TSParser)
 - 📚 [Docs & Tutorials](https://github.com/jlang-org/Jlang_Docs)
 - 🧰 [LSP Support](https://github.com/jlang-org/Jlang_LSP)
 - 🧰 [DAP Support](https://github.com/jlang-org/Jlang_DAP)
